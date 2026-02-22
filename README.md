@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek160104&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek160104" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek160104" alt="abhishek160104" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/161753068?v=4&size=64" alt="abhishek160104" /></a> </p>
 
 - 🔭 I’m currently working on **IARDO Ecommerce**
 
