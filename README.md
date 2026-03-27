@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My name is Abhishek Gupta.<br>🤝 <br>🌱 I’m currently learning Data Science/GenAI
+🔭 My name is Abhishek Gupta.<br> <br>🌱 I’m currently learning Data Science/GenAI
 
 
 ## 🌐 Socials:
