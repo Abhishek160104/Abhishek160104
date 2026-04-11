@@ -8,8 +8,9 @@
 
 <p>
   <a href="mailto:abhishekanalyst.g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhishekanalyst-g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Abhishek160104"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://abhishek-guptavercelapp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <!-- Profile views counter -->
@@ -27,7 +28,7 @@ abhishek = {
     "role"     : "Data Analyst",
     "education": "B.Tech Computer Science @ CCS University, Meerut (2022–2026)",
     "location" : "India 🇮🇳",
-    "currently": "Data Analyst @ IARDO",
+    "currently": "Open for Data Analyst role",
     "focus"    : ["Data Visualization", "Machine Learning", "Business Intelligence"],
     "fun_fact" : "I turn messy data into clean insights ✨"
 }
@@ -69,7 +70,7 @@ abhishek = {
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 🔵 **Data Analyst** | IARDO | Sep 2025 – Present |
+| 🔵 **Data Analyst** | IARDO | Sep 2025 – Feb 2026 |
 | 🟢 **Data Science Intern** | Internshala × IITM | Jan 2025 – Apr 2025 |
 
 ---
